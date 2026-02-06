@@ -10,7 +10,7 @@ document.getElementById('registrationForm').addEventListener('submit', function(
     };
 
     // Utiliser Formspree pour envoyer les données
-    fetch('https://formspree.io/f/YOUR_FORM_ID', {
+    fetch('https://formspree.io/f/mzdabbjz', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
